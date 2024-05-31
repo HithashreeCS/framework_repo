@@ -16,7 +16,6 @@ public class CantactTest {
 	System.out.println(USERNAME);
 	System.out.println(PASSWORD);
 
-	System.out.println("execute modifiedContactTest");
 	}
 	
 
