@@ -15,7 +15,7 @@ public class OrgTest {
 		System.out.println(BROWSER);
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
-		System.out.println("execute createOrgTest");
+
 	}
 	
 
